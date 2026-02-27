@@ -53,7 +53,7 @@ Implemented client-server communication
 Applied SOLID principles
 
 ## 📸 Screenshots
-![Home Page](screenshots/home.png)
+![Home Page]
 <img width="1889" height="874" alt="Screenshot 2025-05-15 212330" src="https://github.com/user-attachments/assets/68d5bac6-72d0-4225-880f-9728a8e5a456" />
 <img width="1888" height="860" alt="Screenshot 2025-05-15 212355" src="https://github.com/user-attachments/assets/46f1a2e2-a872-43f9-abaf-c2e632523870" />
 <img width="1883" height="685" alt="Screenshot 2025-05-15 212457" src="https://github.com/user-attachments/assets/91207421-507a-412b-b282-f8c3aa0969aa" />
