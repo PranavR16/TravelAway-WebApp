@@ -1,0 +1,165 @@
+/* General Styles */
+body {
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensure body takes at least full viewport height */
+}
+.content {
+  min-height: calc(100vh - 60px); /* Adjust content height */
+  width: 100%;
+  position: relative; /* Keep for inner absolute positioning */
+  text-align: center;
+  min-height: 100vh; /* Fill the entire viewport height */
+  width: 100%;
+  position: relative;
+  text-align: center;
+  /* Add your background image using inline styles in the HTML or a separate rule if needed */
+  background-size: cover;
+  background-position: center;
+  color: #333; /* Default text color */
+  flex-grow: 1;
+}
+
+/* Inner Content (Headline and Button) */
+.inner-content {
+  width: 80%; /* Adjust width for responsiveness */
+  max-width: 600px; /* Maximum width on larger screens */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Center the content */
+  padding: 20px; /* Add some padding */
+  margin-top: 40px;
+}
+
+.inner-content h1,
+#footer h2,
+.login h1,
+.signup h1 {
+  font-family: 'Architects Daughter', cursive; /* Custom headline font */
+  color: #fff; /* White headline text for contrast */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add a text shadow for better readability */
+}
+
+.inner-content h1 {
+  letter-spacing: 1px;
+  font-size: 2.5em; /* Adjust font size for prominence */
+  margin-bottom: 20px;
+  
+}
+
+.inner-content button {
+  padding: 15px 30px; /* Adjust padding for button size */
+  border-radius: 10px;
+  border: none;
+  margin: 10px;
+  background-color: #ffc107; /* Yellow button */
+  color: #fff; /* White button text */
+  font-size: 1.2em;
+  font-weight: bold;
+  font-family: 'Quicksand', sans-serif;
+  box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.3); /* More subtle shadow */
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Smooth hover transition */
+}
+
+.inner-content button:hover {
+  background-color: #e0a800; /* Darker yellow on hover */
+}
+
+.inner-content button:focus {
+  outline: none; /* Remove default focus outline */
+  box-shadow: 0 0 5px #007bff; /* Add a custom focus style */
+}
+
+/* Footer */
+#footer {
+  position: fixed; /* Fixed to the viewport */
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  text-align: center;
+  padding: 15px 0;
+  z-index: 10; /* Ensure it stays above other content */
+}
+
+#footer h2 {
+  font-size: 1.5em;
+  margin-bottom: 15px;
+}
+
+#social_media i {
+  margin: 0 15px;
+  font-size: 1.5em;
+  color: #fff;
+  transition: color 0.3s ease;
+}
+
+#social_media i:hover {
+  color: #ddd;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .inner-content {
+    width: 90%;
+    padding: 15px;
+  }
+
+ 
+
+  .inner-content button {
+    padding: 12px 25px;
+    font-size: 1em;
+    margin: 8px;
+  }
+
+  #footer h2 {
+    font-size: 1.2em;
+  }
+
+  #social_media i {
+    font-size: 1.3em;
+    margin: 0 10px;
+  }
+}
+#popular{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%; /* Adjust for compact size */
+    margin: auto;
+    overflow: hidden;
+    padding-top: 100px;
+    margin-bottom: 10px;
+}
+/* Font Loading (Example - Replace with your actual font loading) */
+/*
+@font-face {
+  font-family: 'Architects Daughter';
+  src: url('architects-daughter.woff2') format('woff2'),
+       url('architects-daughter.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src: url('quicksand-regular.woff2') format('woff2'),
+       url('quicksand-regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  src: url('quicksand-bold.woff2') format('woff2'),
+       url('quicksand-bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+*/

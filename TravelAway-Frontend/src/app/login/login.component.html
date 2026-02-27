@@ -1,0 +1,50 @@
+<app-common-layout></app-common-layout>
+<div class="content">
+  <div class="login">
+    <h1>{{rolename}} <span style="font-size:40px;"> Login</span></h1>
+    <form #loginForm="ngForm" (ngSubmit)="submitLoginForm(loginForm)">
+      <div class="form-group">
+        <label for="email">Email address</label>
+        <input type="email" id="email" placeholder="Your Email" name="email" class="form-control forminputs" #emailRef="ngModel" pattern='^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$'  ngModel required />
+        <div *ngIf="emailRef.errors && (emailRef.dirty || emailRef.touched)" class="error-message">
+          <div [hidden]="!emailRef.errors.required">
+            Email address is required.
+          </div>
+          <div [hidden]="!emailRef.errors.pattern">
+            Please enter a valid email address format.
+          </div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" id="password" placeholder="Your Password" name="password" minlength="8" maxlength="16" class="form-control forminputs" #passwordRef="ngModel" ngModel required />
+        <div *ngIf="passwordRef.errors && (passwordRef.dirty || passwordRef.touched)" class="error-message">
+          <div [hidden]="!passwordRef.errors.required">
+            Password is required.
+          </div>
+          <div [hidden]="!passwordRef.errors.minlength || !passwordRef.errors.maxlength">
+            Password must be between 8 and 16 characters.
+          </div>
+        </div>
+      </div>
+
+      <div class="form-group form-check">
+        <input type="checkbox" class="form-check-input" id="rememberMe" name="rememberMe" ngModel>
+        <label class="form-check-label" for="rememberMe">Remember me</label>
+      </div>
+
+      <button type="submit" id="formsubmit" [disabled]="!loginForm.form.valid">Sign In</button>
+
+      <div class="form-group forgot-password">
+        <a routerLink="/forgot-password">Forgot your password?</a>
+      </div>
+
+      <div *ngIf="showDiv" class="login-message">
+        <br />
+        {{msg}}
+      </div>
+
+      </form>
+  </div>
+</div>

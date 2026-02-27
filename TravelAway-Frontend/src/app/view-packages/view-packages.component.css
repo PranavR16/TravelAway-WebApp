@@ -1,0 +1,86 @@
+.content {
+  min-height: 90vh;
+  width: 100%;
+  position: relative;
+  text-align: center;
+}
+#packages {
+  width: 90%;
+  min-height: 400px;
+  background-color: rgba(255, 255, 255, 0);
+  margin: 50px auto 20px auto;
+  padding: 10px;
+  border-radius: 10px;
+  position:relative;
+}
+.pkgcol h3:hover {
+  cursor: pointer;
+  color:red;
+}
+
+.pkgimg:hover{
+    cursor:pointer;
+}
+
+.pkgrow {
+  width: 100%;
+  min-height: 49%;
+  background-color: rgba(243, 243, 70, 0.207);
+  padding: 10px;
+  margin-bottom: 1%;
+  border-radius: 10px;
+  margin-left: 0px;
+}
+
+.pkgcol {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+}
+
+  .pkgcol h3{
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+
+  .pkgcol p {
+    font-family: cursive;
+  }
+
+#pkgheading {
+  text-align: left;
+  font-family: '', sans-serif;
+  font-weight: bold;
+}
+#filter {
+  text-align:right;
+  margin-top: 7px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  font-family: 'Quicksand', sans-serif;
+}
+#cat {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-align: center;
+  padding: 6px; 
+  border-radius: 4px; 
+}
+
+#cat:hover {
+  border-color: #000000; 
+  background-color: #ffffffc4; 
+  cursor: pointer;
+}
+#pkgdis{
+  height:140px;
+  width:100%;
+  min-height:140px;
+}
+.row.align-items-center {
+  display: flex;
+  align-items: center; 
+}

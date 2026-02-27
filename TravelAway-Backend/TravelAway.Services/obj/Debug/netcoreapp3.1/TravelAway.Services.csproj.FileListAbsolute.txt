@@ -1,0 +1,218 @@
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.exe
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.deps.json
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.runtimeconfig.json
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.runtimeconfig.dev.json
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.pdb
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.Memory.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.ConventionalRouting.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.BL.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.DAL.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.BL.pdb
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.DAL.pdb
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.csproj.AssemblyReference.cache
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.AssemblyInfoInputs.cache
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.AssemblyInfo.cs
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.csproj.CoreCompileInputs.cache
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\TravelAway.Services.StaticWebAssets.Manifest.cache
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\TravelAway.Services.StaticWebAssets.Pack.cache
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.TravelAway.Services.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.TravelAway.Services.props
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.TravelAway.Services.props
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.TravelAway.Services.props
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAw.C50E1174.Up2Date
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.dll
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.pdb
+C:\Users\Prana\source\repos\TravelAway-main\Infosys.TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.genruntimeconfig.cache
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.exe
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.deps.json
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.runtimeconfig.json
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.runtimeconfig.dev.json
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.pdb
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.Memory.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.ConventionalRouting.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.BL.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.DAL.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.BL.pdb
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.DAL.pdb
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.csproj.AssemblyReference.cache
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.AssemblyInfoInputs.cache
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.AssemblyInfo.cs
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.csproj.CoreCompileInputs.cache
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\TravelAway.Services.StaticWebAssets.Manifest.cache
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\TravelAway.Services.StaticWebAssets.Pack.cache
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.TravelAway.Services.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.TravelAway.Services.props
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.TravelAway.Services.props
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.TravelAway.Services.props
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAw.C50E1174.Up2Date
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.dll
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.pdb
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.genruntimeconfig.cache
+C:\Users\Prana\source\repos\TravelAway-main\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.sourcelink.json
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.exe
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.deps.json
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.runtimeconfig.json
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.runtimeconfig.dev.json
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.Services.pdb
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.Memory.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.ConventionalRouting.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.BL.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.DAL.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.BL.pdb
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\bin\Debug\netcoreapp3.1\TravelAway.DAL.pdb
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.csproj.AssemblyReference.cache
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.AssemblyInfoInputs.cache
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.AssemblyInfo.cs
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.csproj.CoreCompileInputs.cache
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.sourcelink.json
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\TravelAway.Services.StaticWebAssets.Manifest.cache
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\TravelAway.Services.StaticWebAssets.Pack.cache
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.TravelAway.Services.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.TravelAway.Services.props
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.TravelAway.Services.props
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.TravelAway.Services.props
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAw.C50E1174.Up2Date
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.dll
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.pdb
+C:\Users\Prana\Source\Repos\PranavR16\Dotnet-Projects\TravelAway Web Application\TravelAwayBackend\TravelAway.Services\obj\Debug\netcoreapp3.1\TravelAway.Services.genruntimeconfig.cache

@@ -1,0 +1,113 @@
+.content {
+  min-height: 90vh;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  padding-top: 20px; /* Add some top padding to avoid content sticking to the top */
+  box-sizing: border-box; /* Include padding in height calculation */
+}
+
+.signup {
+  width: 40%; /* Adjust width as needed */
+  min-width: 350px; /* Slightly wider min-width for better layout */
+  margin: 30px auto 20px auto; /* Adjust top margin */
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 15px;
+  padding: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.signup h1 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.8em;
+  color: #333;
+  margin-bottom: 25px;
+  text-align: left; /* Keep title aligned left */
+}
+
+.form-group {
+  margin-bottom: 20px; /* Increased spacing between form groups */
+}
+
+.form-group label {
+  display: block; /* Make labels take full width */
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bold;
+  color: #555;
+  margin-bottom: 8px; /* Space between label and input */
+  text-align: left;
+}
+
+.forminputs {
+  width: calc(100% - 16px); /* Account for padding and border */
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: normal; /* Keep input text normal weight */
+  font-size: 1em;
+  box-sizing: border-box;
+}
+
+.forminputs::placeholder {
+  color: #999; /* Slightly darker placeholder */
+  font-weight: normal;
+}
+
+.form-control { /* Style for the select element */
+  width: calc(100% - 16px);
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: normal;
+  font-size: 1em;
+  box-sizing: border-box;
+  color: #333;
+}
+
+.form-control option:first-child {
+  color: #999; /* Style the disabled "Gender" option */
+}
+
+textarea.forminputs {
+  min-height: 100px; /* Give the textarea some initial height */
+}
+
+#formsubmit {
+  border: none;
+  border-radius: 20px;
+  padding: 12px 25px; /* Adjust button padding */
+  background-color: yellow;
+  box-shadow: 2px 2px 2px #000000;
+  font-size: 1.1em; /* Slightly smaller button font */
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+  display: block;
+  margin: 25px auto 0 auto; /* Center button with more top margin */
+}
+
+#formsubmit:hover {
+  background-color: #e0a800;
+}
+
+#formsubmit:focus {
+  outline: none;
+  box-shadow: 0 0 5px #007bff;
+}
+
+div[style*="text-align:left; color:red;"] { /* Style for error messages */
+  text-align: left;
+  color: red;
+  margin-top: 5px;
+  font-size: 0.9em;
+}
+
+div[style*="color:red;text-align:center;"] { /* Style for the submission message */
+  color: red;
+  text-align: center;
+  margin-top: 15px;
+  font-size: 0.95em;
+}

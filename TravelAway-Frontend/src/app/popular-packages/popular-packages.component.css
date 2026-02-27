@@ -1,0 +1,41 @@
+.package-container {
+    display: flex;
+    gap: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: scroll 20s linear infinite;
+}
+
+.package-container:hover {
+    animation-play-state: paused;
+}
+
+.package-card {
+    /* border: 1px solid #ccc; */
+    padding: 10px;
+    text-align: center;
+    flex-shrink: 0; /* Prevents collapsing */
+    width: 200px; /* Adjust width */
+}
+.package-card img {
+    width: 200px;  /* Set desired width */
+    height: 150px;  /* Set desired height */
+    object-fit: cover; /* Ensures the image fits well */
+    border-radius: 5px; /* Optional: Adds rounded corners */
+}
+#h5
+{
+  font-family: 'Architects Daughter', cursive; /* Custom headline font */
+  color: #fff; /* White headline text for contrast */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: x-large
+}
+
+@keyframes scroll {
+    from {
+        transform: translateX(100%);
+    }
+    to {
+        transform: translateX(-100%);
+    }
+}

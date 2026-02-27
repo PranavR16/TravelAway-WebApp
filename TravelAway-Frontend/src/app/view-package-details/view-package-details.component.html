@@ -1,0 +1,30 @@
+
+<div *ngIf="commonLayout">
+  <app-common-layout></app-common-layout>
+</div>
+<div *ngIf="customerLayout">
+  <app-user-layout></app-user-layout>
+</div>
+<div class="content">
+  <div id="packages">
+    <h1 id="pkgheading">Package Details: <span>{{packageName}}</span></h1>
+    <div class="pkgrow" *ngFor="let packageDetail of packageDetails">
+      <div class="col-md-3 col-12 pkgdelcol">
+        <h5>Places to visit</h5>
+        <p>{{packageDetail.placesToVisit}}</p>
+          <img src="{{packageDetail.imagePath}}" alt="image" class="img-thumbnail pkgimg" id="pkgdis" />
+      </div>
+      <div class="col-md-6 col-12 pkgdelcol">
+        <h5>Package Description</h5>
+        <p>{{packageDetail.description}}</p>
+      </div>
+      <div class="col-md-3 col-12 pkgdelcol">
+        <h5>Details</h5>
+        <p><span class="boldtext">Days/Nights: </span><span>{{packageDetail.noOfDays}} / {{packageDetail.noOfNights}}</span></p>
+        <p><span class="boldtext">Price: </span><span>{{packageDetail.pricePerAdult}}</span></p>
+        <p><span class="boldtext">Accommodation: </span><span>{{packageDetail.accomodation}}</span></p>
+        <button type="button" id="bookingbtn" (click)="navigateToBookPackage(packageDetail.packageDetailsId,packageDetail.placesToVisit)">Book</button>
+      </div>
+    </div>
+  </div>
+</div>

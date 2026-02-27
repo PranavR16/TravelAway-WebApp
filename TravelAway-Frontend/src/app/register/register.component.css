@@ -1,0 +1,150 @@
+.content {
+  min-height: 90vh;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.signup {
+  width: 40%;
+  min-width: 300px;
+  margin: 20px auto 15px auto; /* Consistent shorthand margin */
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 15px;
+  padding: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  max-width: 500px;
+  min-height: auto;
+  font-size: 1.0em; /* Base font size for the signup container */
+}
+
+.signup h1 {
+  text-align: left;
+  color: #333;
+  margin-bottom: 15px;
+  font-size: 1.5em;
+}
+
+.form-group {
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 2px;
+  font-weight: bold;
+  color: #555;
+  font-size: 0.85em;
+}
+
+.forminputs {
+  width: calc(100% - 16px);
+  padding: 6px 8px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: normal;
+  font-size: 0.9em;
+  box-sizing: border-box;
+}
+
+.forminputs::placeholder {
+  color: #777;
+  opacity: 1;
+  font-weight: normal;
+}
+
+.forminputs:focus {
+  border-color: #007bff;
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.25);
+}
+
+.error-message {
+  text-align: left;
+  color: red;
+  padding-top: 2px;
+  font-size: 0.75em;
+}
+
+#formsubmit {
+  border: none;
+  border-radius: 25px;
+  padding: 8px 20px;
+  background-color: #ffc107;
+  color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  font-size: 0.95em;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  margin-top: 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: auto;
+}
+
+.signup-message {
+  color: red;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 0.9em;
+}
+
+.form-check {
+  margin-top: 10px;
+  padding-left: 1.5em;
+  text-align: left;
+  font-size: 0.88em;
+}
+
+.form-check-input {
+  float: left;
+  margin-left: -1.5em;
+}
+
+.form-check-label a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.form-check-label a:hover {
+  text-decoration: underline;
+}
+
+/* Styles for two-column layout (First Name, Last Name; Email, Password) */
+.name-group {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.name-group .form-group {
+  margin-bottom: 0; /* Override default form-group margin within grid */
+}
+
+.name-group .form-group label {
+  display: block;
+  margin-bottom: 2px; /* Adjust label margin within grid */
+  font-weight: bold;
+  color: #555;
+  font-size: 0.85em; /* Adjust label font size within grid for consistency */
+  width: 100%;
+}
+
+.name-group .form-group .forminputs {
+  width: calc(100% - 16px); /* Maintain input width */
+  font-size: 0.9em; /* Maintain input font size */
+}
+
+.name-group .form-group .error-message {
+  margin-top: 2px; /* Adjust error message margin within grid */
+  font-size: 0.75em; /* Maintain error message font size */
+}

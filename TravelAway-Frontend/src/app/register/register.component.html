@@ -1,0 +1,107 @@
+<app-common-layout></app-common-layout>
+<div class="content">
+  <div class="signup">
+    <h1>Signup</h1>
+    <form #signupForm="ngForm" (ngSubmit)="SubmitForm(signupForm)">
+      <div class="name-group">
+      <div class="form-group">
+        <label for="firstName">First Name</label>
+        <input type="text" id="firstName" placeholder="Enter your first name" name="firstName" class="form-control forminputs" #firstNameRef="ngModel" ngModel required pattern="[a-zA-z]{1,}" />
+        <div *ngIf="firstNameRef.errors && (firstNameRef.dirty || firstNameRef.touched)" class="error-message">
+          <div [hidden]="!firstNameRef.errors.required">First Name is required.</div>
+          <div [hidden]="!firstNameRef.errors.pattern">First Name should only contain letters.</div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="lastName">Last Name</label>
+        <input type="text" id="lastName" placeholder="Enter your last name" name="lastName" class="form-control forminputs" #lastNameRef="ngModel" ngModel required pattern="[a-zA-z]{1,}" />
+        <div *ngIf="lastNameRef.errors && (lastNameRef.dirty || lastNameRef.touched)" class="error-message">
+          <div [hidden]="!lastNameRef.errors.required">Last Name is required.</div>
+          <div [hidden]="!lastNameRef.errors.pattern">Last Name should only contain letters.</div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="emailId">Email address</label>
+        <input type="email" id="emailId" placeholder="Enter your email address" name="emailId" class="form-control forminputs" #emailRef="ngModel" ngModel required pattern="^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$" />
+        <div *ngIf="emailRef.errors && (emailRef.dirty || emailRef.touched)" class="error-message">
+          <div [hidden]="!emailRef.errors.required">Email address is required.</div>
+          <div [hidden]="!emailRef.errors.pattern">Please enter a valid email address format.</div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" id="password" placeholder="Enter your password" name="password" class="form-control forminputs" #passwordRef="ngModel" minlength="8" maxlength="16" ngModel required />
+        <div *ngIf="passwordRef.errors && (passwordRef.dirty || passwordRef.touched)" class="error-message">
+          <div [hidden]="!passwordRef.errors.required">Password is required.</div>
+          <div [hidden]="!passwordRef.errors.minlength || !passwordRef.errors.maxlength">Password must be between 8 and 16 characters.</div>
+        </div>
+        </div>
+      
+        <div class="form-group">
+          <label for="gender">Gender</label>
+          <select class="form-control forminputs" id="gender" name="gender" #genderRef="ngModel" ngModel required>
+            <option value="" disabled selected>Select your gender</option>
+            <option value="M">Male</option>
+            <option value="F">Female</option>
+            <option value="O">Other</option>
+          </select>
+          <div *ngIf="genderRef.errors && (genderRef.dirty || genderRef.touched)" class="error-message">
+            <div [hidden]="!genderRef.errors.required">Please select your gender.</div>
+          </div>
+        </div>
+
+      <div class="form-group">
+        <label for="confirmPassword">Confirm Password</label>
+        <input type="password" id="confirmPassword" placeholder="Confirm your password" name="cpassword" class="form-control forminputs" #confirmPasswordRef="ngModel" ngModel required />
+        <div *ngIf="confirmPasswordRef.errors && (confirmPasswordRef.dirty || confirmPasswordRef.touched)" class="error-message">
+          <div [hidden]="!confirmPasswordRef.errors.required">Confirm Password is required.</div>
+          <div [hidden]="confirmPasswordRef.value !== passwordRef.value && !confirmPasswordRef.errors?.required">Passwords do not match.</div>
+        </div>
+      </div>
+    
+      <div class="form-group">
+        <label for="contactNumber">Contact Number</label>
+        <input type="text" id="contactNumber" placeholder="Enter your contact number" name="contactNumber" class="form-control forminputs" #contactNumberRef="ngModel" ngModel required pattern="[1-9]{1}[0-9]{9}" />
+        <div *ngIf="contactNumberRef.errors && (contactNumberRef.dirty || contactNumberRef.touched)" class="error-message">
+          <div [hidden]="!contactNumberRef.errors.required">Contact number is required.</div>
+          <div [hidden]="!contactNumberRef.errors.pattern">Contact number should be 10 digits and not start with 0.</div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="dateOfBirth">Date of Birth</label>
+        <input type="date" id="dateOfBirth" name="dateOfBirth" placeholder="Select your date of birth" class="form-control forminputs" #dobRef="ngModel" ngModel required />
+        <div *ngIf="dobRef.errors && (dobRef.dirty || dobRef.touched)" class="error-message">
+          <div [hidden]="!dobRef.errors.required">Date of birth is required.</div>
+        </div>
+      </div>
+    </div>
+
+      <div class="form-group">
+        <label for="address">Address</label>
+        <textarea id="address" placeholder="Enter your address" name="address" class="form-control forminputs" #addressRef="ngModel" ngModel required></textarea>
+        <div *ngIf="addressRef.errors && (addressRef.dirty || addressRef.touched)" class="error-message">
+          <div [hidden]="!addressRef.errors.required">Address is required.</div>
+        </div>
+      </div>
+
+      <div class="form-group form-check">
+        <input type="checkbox" class="form-check-input" id="termsAndConditions" name="termsAndConditions" ngModel required>
+        <label class="form-check-label" for="termsAndConditions">I agree to the <a href="/terms" target="_blank">Terms and Conditions</a> and <a href="/privacy" target="_blank">Privacy Policy</a></label>
+        <div *ngIf="signupForm.controls['termsAndConditions']?.invalid && (signupForm.controls['termsAndConditions']?.dirty || signupForm.controls['termsAndConditions']?.touched)" class="error-message">
+          <div [hidden]="!signupForm.controls['termsAndConditions']?.errors?.required">You must agree to the terms and conditions.</div>
+        </div>
+      </div>
+      
+      <button type="submit" id="formsubmit" [disabled]="!signupForm.form.valid">Sign Up</button>
+      
+      <div *ngIf="showDiv" class="signup-message">
+        <br />
+        {{msg}}
+      </div>
+    </form>
+  </div>
+</div>

@@ -1,0 +1,199 @@
+.content {
+  min-height: 90vh;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  /* Consider adding a subtle background overlay if the image is too busy */
+  /* background-color: rgba(0, 0, 0, 0.1); */
+}
+
+.login {
+  width: 30%;
+  min-width: 320px; /* Slightly adjusted min-width for better spacing */
+  height: auto; /* Adjust height based on content */
+  min-height: 320px; /* Adjusted min-height */
+  position: absolute;
+  top: 50%; /* Center vertically using transform */
+  left: 50%; /* Center horizontally using transform */
+  transform: translate(-50%, -50%); /* The magic centering trick */
+  background-color: rgba(255, 255, 255, 0.8); /* Slightly increased opacity */
+  border-radius: 15px; /* Slightly adjusted border-radius */
+  padding: 30px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15); /* More pronounced, softer shadow */
+  text-align: center; /* Ensure text inside is centered */
+}
+
+.login h2 { /* Style the main "Login" text */
+  font-size: 2.2em;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.login h3 { /* Style the "as Customer/Employee" text */
+  font-size: 1.1em;
+  color: #666;
+  margin-bottom: 25px;
+  font-weight: normal; /* Make it less prominent */
+}
+
+.form-group { /* Add a class for better organization */
+  margin-bottom: 20px;
+  text-align: left; /* Align labels to the left */
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  color: #555;
+  font-weight: bold; /* Make labels stand out a bit */
+}
+
+.forminputs {
+  width: calc(100% - 20px); /* Adjust width for padding */
+  padding: 10px;
+  border: 1px solid #ccc; /* Light gray border */
+  border-radius: 8px;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: normal; /* Use normal weight for input text */
+  font-size: 1em;
+  box-sizing: border-box; /* Ensure padding doesn't increase width */
+}
+
+.forminputs:focus {
+  border-color: #007bff; /* Blue focus color */
+  outline: none; /* Remove default outline */
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.25); /* Subtle focus shadow */
+}
+
+#formsubmit {
+  border: none;
+  border-radius: 25px; /* More rounded button */
+  padding: 12px 30px; /* Adjusted padding */
+  background-color: #ffc107; /* Keep the yellow */
+  color: #fff; /* White text for better contrast */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Softer, more realistic shadow */
+  font-size: 1.1em; /* Slightly adjusted font size */
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out; /* Smooth transitions */
+}
+
+#formsubmit:hover {
+  background-color: #e0a800; /* Darker yellow on hover */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+}
+
+#formsubmit:active {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Inset-like effect on active */
+}
+
+
+
+/* Styling for the <h1> element */
+.login h1 {
+  text-align: left;
+}
+
+.login h1 span {
+  font-size: 40px;
+}
+
+/* Styling for the first form-group (margin-top) */
+.login form .form-group:first-child {
+  margin-top: 20px;
+}
+
+/* Styling for the validation error messages */
+.error-message {
+  text-align: left;
+  padding-top: 5px;
+  color: red;
+}
+
+/* Styling for the post-login message */
+.login-message {
+  color: red;
+  text-align: center;
+}
+
+
+
+/* ... your existing CSS ... */
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold; /* Make labels stand out */
+  color: #333;
+  text-align: left; /* Align labels to the left */
+}
+
+.form-check {
+  margin-top: 15px;
+  text-align: left;
+}
+
+.form-check-input {
+  margin-right: 5px;
+}
+
+.forgot-password {
+  margin-top: 15px;
+  text-align: right;
+}
+
+.forgot-password a {
+  color: #007bff; /* Example link color */
+  text-decoration: none;
+}
+
+.forgot-password a:hover {
+  text-decoration: underline;
+}
+
+/* Style for potential social login area (if you add it) */
+/* .social-login {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.social-login p {
+  margin-bottom: 10px;
+}
+
+.social-login button {
+  margin: 0 5px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-facebook {
+  background-color: #4267B2;
+  color: white;
+}
+
+.btn-google {
+  background-color: #DB4437;
+  color: white;
+} */
+
+/* Example loading spinner (you'll need to implement the actual spinner) */
+/* .loading-spinner {
+  border: 4px solid rgba(0, 0, 0, 0.1);
+  border-top: 4px solid #3498db;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  animation: spin 2s linear infinite;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+} */

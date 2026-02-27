@@ -1,0 +1,8 @@
+<div class="package-container">
+  <div *ngFor="let package of topPackages" class="package-card">
+    <img src="{{package.imagePath}}" alt="{{package.name}}" />
+    <h5 id="h5">{{package.packageName}}</h5>
+    <!-- <p>{{package.}}</p>
+    <span>${{package.price}}</span> -->
+  </div>
+</div>

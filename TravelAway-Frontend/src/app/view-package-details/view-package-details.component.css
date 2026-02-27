@@ -1,0 +1,101 @@
+/* General content styling */
+.content {
+  min-height: 90vh;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Package container styling */
+#packages {
+  width: 90%;
+  min-height: 400px;
+  background-color: rgba(255, 255, 255, 0.096); /* Transparent white background */
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+  backdrop-filter: blur(10px); /* Blur effect for transparency */
+}
+
+/* Package heading styling */
+#pkgheading {
+  text-align: left;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+#pkgheading span {
+  color: #e63946; /* Red color for emphasis */
+}
+
+/* Package row styling */
+.pkgrow {
+  display: flex;
+  flex-wrap: wrap; /* Ensure responsiveness */
+  gap: 20px; /* Space between columns */
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.182); /* Transparent white background */
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  border: 1px solid rgba(0, 0, 0, 0.1); /* Subtle border */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  backdrop-filter: blur(5px); /* Blur effect for transparency */
+}
+
+/* Package column styling */
+.pkgdelcol {
+  flex: 1; /* Equal width for all columns */
+  min-width: 250px; /* Ensure columns don't shrink too much */
+}
+
+.pkgdelcol h5 {
+  text-align: left;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bold;
+  font-size: 1.rem;
+  color: #e63946; /* Red color for headings */
+  background-color: rgba(255, 255, 255, 0.505); /* Transparent white background */
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for headings */
+}
+
+.pkgdelcol p {
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.4rem;
+  color: #555;
+  line-height: 1.6; /* Improve readability */
+  margin-bottom: 10px;
+}
+
+/* Bold text styling */
+.boldtext {
+  font-weight: bold;
+  color: #333;
+}
+
+/* Booking button styling */
+#bookingbtn {
+  padding: 10px 20px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#bookingbtn:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}

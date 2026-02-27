@@ -1,0 +1,135 @@
+/* General content styling */
+.content {
+  min-height: 90vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Packages container styling */
+#packages {
+  width: 90%;
+  min-height: 400px;
+  background-color: rgba(255, 255, 255, 0.429); /* Slightly opaque white background */
+  margin: 50px auto 20px auto;
+  padding: 20px;
+  border-radius: 15px; /* Rounded corners for a modern look */
+}
+
+/* No bookings available section */
+#nobooking {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Quicksand', sans-serif;
+  background-color: rgba(255, 255, 255, 0.8); /* Softer background for better readability */
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1); /* Inner shadow for depth */
+}
+
+/* No bookings text styling */
+#nobooking h1 {
+  font-size: 1.5rem; /* Larger font size for better readability */
+  font-weight: bold; /* Bold text for emphasis */
+  color: #333; /* Darker text color for contrast */
+  margin: 0; /* Remove default margin */
+}
+
+/* Booking row styling */
+.pkgrow {
+  width: 100%;
+  min-height: 49%;
+  background-color: rgba(255, 255, 255, 0.477); /* Softer yellow for better aesthetics */
+  padding: 15px; /* Increased padding for spacing */
+  margin-bottom: 10px; /* Consistent spacing between rows */
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Booking details column styling */
+.pkgdelcol {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.pkgdelcol p {
+  text-align: left;
+  font-family:  sans-serif;
+  font-weight: bold;
+  color: #333; /* Darker text color for readability */
+}
+
+.pkgdelcol p span {
+  color: rgb(111, 111, 111);/* Blue color for emphasis */
+}
+
+/* Buttons styling */
+button.btn {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 0.9rem;
+  font-weight: bold;
+  padding: 8px 12px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button.btn:hover {
+  transform: translateY(-2px); /* Lift effect on hover */
+}
+
+button.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+}
+
+button.btn-primary:disabled {
+  background-color: #cccccc;
+  color: #666;
+  cursor: not-allowed;
+}
+
+button.btn-danger {
+  background-color: #dc3545;
+  color: #fff;
+}
+
+button.btn-success {
+  background-color: #28a745;
+  color: #fff;
+}
+
+button.btn-success:disabled {
+  background-color: #cccccc;
+  color: #666;
+  cursor: not-allowed;
+}
+
+/* Image container styling */
+.img-container {
+  justify-content: space-around;
+}
+
+.pkgimg {
+  height: 140px;
+  width: 100%;
+  min-height: 140px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for emphasis */
+}
+
+/* Heading styling */
+#pkgheading {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bold;
+  font-size: 2rem; /* Larger font size for emphasis */
+  margin-bottom: 20px; /* Add spacing below the heading */
+}

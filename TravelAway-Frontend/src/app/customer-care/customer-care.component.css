@@ -1,0 +1,107 @@
+/* General content styling */
+.content {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Inner content styling */
+.inner-content {
+  position: relative;
+  min-height: 310px;
+  height: auto;
+  width: 50%;
+  min-width: 300px;
+  background-color: rgba(255, 255, 255, 0.703); /* Slightly opaque white background */
+  border-radius: 20px;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+}
+
+/* Customer service image styling */
+.inner-content img {
+  position: absolute;
+  left: -30px;
+  top: -30px;
+  border-radius: 40%;
+  width: 80px;
+  height: 80px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow for emphasis */
+}
+
+/* Heading styling */
+.inner-content h1 {
+  color: red;
+  text-shadow: 2px 2px 2px black;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+/* Paragraph styling */
+.inner-content p {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Form input styling */
+.forminputs {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+  width: 80%;
+  margin: 0 auto 20px auto;
+  height: 100px;
+  padding: 10px;
+  background-color: white;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.forminputs:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  outline: none;
+}
+
+/* Submit button styling */
+#formsubmit {
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  background-color: yellow;
+  box-shadow: 2px 2px 2px #000000;
+  font-size: 1.2rem;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+#formsubmit:hover {
+  background-color: #ffc107;
+  transform: translateY(-2px);
+}
+
+#formsubmit:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+
+/* Message styling */
+.inner-content .message {
+  color: red;
+  text-align: center;
+  margin-bottom: 5px;
+  font-size: 1rem;
+  font-weight: bold;
+}

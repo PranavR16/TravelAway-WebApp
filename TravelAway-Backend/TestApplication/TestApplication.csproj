@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TravelAway.BL\TravelAway.BL.csproj" />
+    <ProjectReference Include="..\TravelAway.DAL\TravelAway.DAL.csproj" />
+    <ProjectReference Include="..\TravelAway.Services\TravelAway.Services.csproj" />
+  </ItemGroup>
+
+</Project>
