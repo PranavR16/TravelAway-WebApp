@@ -1,3 +1,7 @@
+![C#](https://img.shields.io/badge/C%23-Developer-blue)
+![.NET](https://img.shields.io/badge/.NET-Framework-purple)
+![Angular](https://img.shields.io/badge/Angular-Frontend-red)
+
 ✈ TravelAway – Full Stack Travel Booking System
 📌 Overview
 
